@@ -2,7 +2,7 @@
   "name": "lint-staged",
   "description": "Lint files staged by git",
   "main": "index.js",
-  "version": "3.2.6-p"
+  "version": "3.2.6-p",
   "bin": {
     "lint-staged": "index.js"
   },
